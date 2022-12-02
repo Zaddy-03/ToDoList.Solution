@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tkG08bujpxA5dJBP5IaRoIdQt+9kNanmY56IRsNQJ7aPzh5jhjuFjSvdniGGIWBdTQhLYufnvDN+In7S4FAunQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\C# Class\\ToDoList.Solution\\ToDoList\\ToDoList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\mysqlconnector\\0.69.0\\mysqlconnector.0.69.0.nupkg.sha512"
+  ],
+  "logs": []
+}
